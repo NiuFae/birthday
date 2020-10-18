@@ -41,7 +41,7 @@ var config = {
         balloons_flying: "好像少点东西？",
         cake_fadein: "蛋糕？",
         light_candle: "蜡烛？",
-        wish_message: "蜡烛点燃！",
-        story: "A MESSAGE FOR YOU",
+        wish_message: "反科学气球！",
+        story: "OMG 点他！点他！",
     }
 };
