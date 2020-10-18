@@ -17,7 +17,7 @@ var config = {
         "♪(´▽｀)",
         "最后，",
         "祝师姐生日快乐，",
-        "（快乐不知今日）",
+        "（快乐不止今日）",
         "永远自由~",
     ],
     /**
@@ -41,7 +41,7 @@ var config = {
         balloons_flying: "好像少点东西？",
         cake_fadein: "蛋糕？",
         light_candle: "蜡烛？",
-        wish_message: "生日快乐",
+        wish_message: "蜡烛点燃！",
         story: "A MESSAGE FOR YOU",
     }
 };
